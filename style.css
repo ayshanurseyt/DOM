@@ -1,0 +1,13 @@
+.highlight{
+  color:yellow;
+}
+body{
+ background-color: #FDF5E6;
+}
+p {
+color: #5F9EA0;
+font-family: monospace;
+   }
+   link.innerText {
+     font-family: monospace;
+   }
